@@ -1,0 +1,24 @@
+{
+  "name": "tile-hero",
+  "version": "0.12.0",
+  "repository": "git@gitlab.com:softgames/tile-hero/tile-hero.git",
+  "devDependencies": {
+    "@softgames/ci-jobs": "^7.8.1"
+  },
+  "scripts": {
+    "trigger-build": "cijobs-trigger-build",
+    "ci-test": "echo noop",
+    "ci-lint": "echo noop",
+    "sync-project-version": "node ./Scripts/cijobs/sync-project-version.mjs",
+    "ci-generate-ucb-envvars": "node ./Scripts/cijobs/generate-ucb-envvars.mjs",
+    "ci-generate-build-number": "node ./Scripts/cijobs/generate-build-number.mjs > build_number",
+    "ci-prepare-npmrc": "bash ./Scripts/cijobs/prepare-npmrc.sh",
+    "ci-success-development": "echo noop",
+    "ci-success-production": "echo noop",
+    "ci-failure-development": "echo noop",
+    "ci-failure-production": "echo noop"
+  },
+  "softgames": {
+    "rc": 2
+  }
+}
