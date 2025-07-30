@@ -33,4 +33,18 @@ public class Loader : MonoBehaviour {
     public int GetLoadedPngsCount() {
         return loadedTextures.Count;
     }
+
+    public void releaseFirstTexture()
+    {
+        if (loadedTextures.Count > 0)
+        {
+            DestroyImmediate(loadedTextures[0], true);
+            loadedTextures.RemoveAt(0);
+            Debug.Log("First texture released.");
+        }
+        else
+        {
+            Debug.Log("No textures to release.");
+        }
+    }
 }
