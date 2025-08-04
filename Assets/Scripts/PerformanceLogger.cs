@@ -10,7 +10,7 @@ public class PerformanceLogger : MonoBehaviour {
     private GameObject loader;
 
     private float logTimer;
-    private float logInterval = 0.5f; // Log every 0.5s
+    private float logInterval = 0.2f;
 
     void Update() {
         logTimer += Time.deltaTime;

@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tayx.Graphy", "Tayx.Graphy.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{0ba8c80d-ff9f-7301-a384-163f490d911f}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{06675aff-8cc0-3cbf-26ae-22485ab75604}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tayx.Graphy.Editor", "Tayx.Graphy.Editor.csproj", "{3d796c27-7573-015c-6ada-79ba35d8baad}"
 EndProject
 Global
@@ -16,6 +18,8 @@ Global
 		{f79ee757-6520-d45f-cb6e-d8732295224b}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0ba8c80d-ff9f-7301-a384-163f490d911f}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{0ba8c80d-ff9f-7301-a384-163f490d911f}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06675aff-8cc0-3cbf-26ae-22485ab75604}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06675aff-8cc0-3cbf-26ae-22485ab75604}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3d796c27-7573-015c-6ada-79ba35d8baad}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{3d796c27-7573-015c-6ada-79ba35d8baad}.Debug|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection
