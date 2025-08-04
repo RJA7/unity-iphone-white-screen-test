@@ -20,5 +20,8 @@
   },
   "softgames": {
     "rc": 2
+  },
+  "dependencies": {
+    "vite": "^6.3.5"
   }
 }
