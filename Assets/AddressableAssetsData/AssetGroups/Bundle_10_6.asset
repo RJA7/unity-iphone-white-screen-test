@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Bundle_10_6
+  m_EditorClassIdentifier: 
+  m_GroupName: Bundle_10_6
+  m_GUID: 6d84257d284bdc8498add4d6e30688a7
+  m_SerializeEntries:
+  - m_GUID: 02d77b4f1fc2ec94c9c79bce1121eaca
+    m_Address: Assets/Art/Image (1455).png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 171f4afe5b8b4fc4e97a09253bf70e7d
+    m_Address: Assets/Art/Image (1451).png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 23677acf5a9d4d04a8482ee258bdca0e
+    m_Address: Assets/Art/Image (1452).png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 318f8b5d402c9e247ae7915ef3ce4815
+    m_Address: Assets/Art/Image (1456).png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6b993a9adc078a6458947d182e43671f
+    m_Address: Assets/Art/Image (1454).png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9582c65622376bc488d9ef03a887a1c7
+    m_Address: Assets/Art/Image (1458).png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a795aadacffba6b4e908d9da1bf29e3a
+    m_Address: Assets/Art/Image (1459).png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a9907b38597d3b9459d4022a403825a7
+    m_Address: Assets/Art/Image (1457).png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dcb7b53bf4a7d5546be86f949de9f559
+    m_Address: Assets/Art/Image (1460).png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: de31c0f57a0b6fc429564e55d816101c
+    m_Address: Assets/Art/Image (1453).png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 68d16685f053c8e44b5b7c155f054ad0, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 05ea32f66be374549aee34573b1131b0, type: 2}
+    - {fileID: 11400000, guid: 76d9d942f1e78ac4ea15651118d9a88a, type: 2}
