@@ -31,6 +31,9 @@
         companyName: "DefaultCompany",
         productName: "White Screen Test",
         productVersion: "1.0",
+        cacheControl: function (url) {
+          return "no-store";
+        },
       };
       createUnityInstance(document.querySelector("#unity-canvas"), config, function (progress)  {});
     </script>
